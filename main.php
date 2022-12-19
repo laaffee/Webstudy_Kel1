@@ -60,7 +60,7 @@
           <br>
         </div>
       <div class="profile_detail">
-        <button class="btn_profile">User Details</button>
+        <button class="btn_profile">Profile</button>
       </div> 
       <div class="profile_text">
         <h3>Username</h3>
